@@ -2,7 +2,7 @@
 
 # Welcome to Tor Security 2024
 
-<img src="https://github.com/mywanderjo/tor-security/blob/main/link%20Image.png">
+<img src="https://github.com/mywanderjo/tor-security/blob/main/link%20image.png">
 
 > Embark on a journey through a carefully curated collection of verified .onion URLs, showcasing a diverse array of Onion Services hidden deep within the enigmatic depths of the tor security.
 
